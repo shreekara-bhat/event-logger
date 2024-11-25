@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+*.tsbuildinfo
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Miscellaneous
+coverage/
+.DS_Store
+.vscode/
+.idea/
